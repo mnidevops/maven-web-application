@@ -23,14 +23,14 @@
 		+91-9552877667
 		mnidevops@gmail.com
 		<br>
-		<a href="mailto:mnidevops@gmail.com">Mail to MNIDevops Technologies</a>
+		<a href="mailto:mnidevops@gmail.com">Mail to Swayam Technologies</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>MNIDevops Technologies - Consultant, Training, Development Center.</p>
+<p align=center>Swayam Technologies - Consultant, Training, Development Center.</p>
 <p align=center><small>Copyrights 2019 by <a href="http://mithuntechnologies.com/">Mithun Technologies</a> </small></p>
 
 </body>
